@@ -1,0 +1,6 @@
+Application: FileCruncher
+Author: Nicole LaBonte
+Email: nklabonte@gmail.com
+Input File: ../../Desktop/largefile.txt
+Analysis Timestamp: Wed May 09 16:17:47 CDT 2012
+Total Token Count: 4751500
